@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frstdeployment/static/css/main.e9325757.css",
+    "main.js": "/frstdeployment/static/js/main.1d075138.js",
+    "service-worker.js": "/frstdeployment/service-worker.js",
+    "static/media/SEGA.woff": "/frstdeployment/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/frstdeployment/index.html",
+    "main.e9325757.css.map": "/frstdeployment/static/css/main.e9325757.css.map",
+    "main.1d075138.js.map": "/frstdeployment/static/js/main.1d075138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9325757.css",
+    "static/js/main.1d075138.js"
+  ]
+}
